@@ -934,12 +934,12 @@ MonoBehaviour:
   - {fileID: 2014165719}
   - {fileID: 219966814}
   - {fileID: 2121484880}
-  emptySockets: 4
   circles:
   - {fileID: 92434979}
   - {fileID: 1383395864}
   - {fileID: 800822516}
   - {fileID: 844708465}
+  emptySockets: 4
 --- !u!4 &159112033
 Transform:
   m_ObjectHideFlags: 0
@@ -1342,8 +1342,8 @@ MonoBehaviour:
   - {fileID: 1712473541}
   - {fileID: 1847552307}
   - {fileID: 1624833770}
-  emptySockets: 0
   circles: []
+  emptySockets: 0
 --- !u!4 &260770627
 Transform:
   m_ObjectHideFlags: 0
@@ -1673,7 +1673,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -2835,10 +2835,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textMeshPro: {fileID: 2043605240}
-  selectedGo: {fileID: 0}
-  selectedStand: {fileID: 0}
   GameWonPanel: {fileID: 391803445}
   GameLosePanel: {fileID: 1454811800}
+  selectedCircle: {fileID: 0}
+  selectedStand: {fileID: 0}
   circle: {fileID: 0}
   canMove: 0
 --- !u!4 &751550561
@@ -3287,10 +3287,10 @@ MonoBehaviour:
   - {fileID: 1023455106}
   - {fileID: 1676873310}
   - {fileID: 1444007777}
-  emptySockets: 2
   circles:
   - {fileID: 125885536}
   - {fileID: 984387618}
+  emptySockets: 2
 --- !u!4 &896537828
 Transform:
   m_ObjectHideFlags: 0
@@ -4874,12 +4874,12 @@ MonoBehaviour:
   - {fileID: 113931839}
   - {fileID: 1601795708}
   - {fileID: 2116554998}
-  emptySockets: 4
   circles:
   - {fileID: 2118408939}
   - {fileID: 1495275869}
   - {fileID: 1891252550}
   - {fileID: 984041852}
+  emptySockets: 4
 --- !u!4 &1499448220
 Transform:
   m_ObjectHideFlags: 0
@@ -5203,10 +5203,10 @@ MonoBehaviour:
   - {fileID: 192449973}
   - {fileID: 539285533}
   - {fileID: 582444741}
-  emptySockets: 2
   circles:
   - {fileID: 1794071360}
   - {fileID: 340260362}
+  emptySockets: 2
 --- !u!4 &1653343144
 Transform:
   m_ObjectHideFlags: 0
@@ -5758,12 +5758,12 @@ MonoBehaviour:
   - {fileID: 2118666746}
   - {fileID: 1054259459}
   - {fileID: 1202482095}
-  emptySockets: 4
   circles:
   - {fileID: 1919207281}
   - {fileID: 1930852618}
   - {fileID: 131062144}
   - {fileID: 205989725}
+  emptySockets: 4
 --- !u!4 &1835893709
 Transform:
   m_ObjectHideFlags: 0
@@ -7248,12 +7248,12 @@ MonoBehaviour:
   - {fileID: 1376738103367646200}
   - {fileID: 6211040515918123353}
   - {fileID: 3664164474425848047}
-  emptySockets: 4
   circles:
   - {fileID: 331440259}
   - {fileID: 1974437930}
   - {fileID: 1350965600}
   - {fileID: 826801351}
+  emptySockets: 4
 --- !u!65 &919132149050598335
 BoxCollider:
   m_ObjectHideFlags: 0
